@@ -10,7 +10,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub ManjunathPrabhakar Apache Maven Packages</name>
+            <name>GitHub woma Devops Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/ManjunathPrabhakar/github-example-package</url>
         </repository>
     </distributionManagement>
